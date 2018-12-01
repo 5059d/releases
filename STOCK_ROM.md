@@ -1,8 +1,8 @@
 # Stock ROM for Alcatel 5059D
 
-This binary file is Copyright TCL and is owned by them. It's subject to Alcatel's terms of service. 
+The binary file(s) below are Copyright TCL and are owned by them. They are subject to Alcatel's terms of service. 
 
-Please consult Alcatel before using this file or any other prebuilt assets.
+Please consult Alcatel before using the file(s) below or any other prebuilt assets.
 
 ## 6J69HN91
 
